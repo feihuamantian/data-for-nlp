@@ -135,3 +135,34 @@ Datasets for Natural Language Processing
 白鹭时代中文问答语料
 由白鹭时代官方论坛问答板块10,000+ 问题中，选择被标注了“最佳答案”的纪录汇总而成。人工review raw data，给每一个问题，一个可以接受的答案。目前，语料库只包含2907个问答。
 ————————————————
+用于对话系统的中英文语料数据，点击超链接直接进入即可。
+
+中文电影对白语料
+中文电影对白语料，噪音比较大，许多对白问答关系没有对应好
+
+短消息语料
+包含中文和英文短信息语料，据说是世界最大公开的短消息语料
+
+中文聊天语料
+ChatterBot聊天引擎提供的一点基本中文聊天语料，量很少，但质量比较高
+
+NLP相关数据集
+这是他人收集的自然语言处理相关数据集，主要包含Question Answering，Dialogue Systems， Goal-Oriented Dialogue Systems三部分，都是英文文本。可以使用机器翻译为中文，供中文对话使用
+
+小黄鸡语料
+传说中的小黄鸡预料：xiaohuangji50w_fenciA.conv.zip （已分词） 和 xiaohuangji50w_nofenci.conv.zip （未分词）
+
+论坛问答语料
+由白鹭时代官方论坛问答板块10,000+ 问题中，选择被标注了“最佳答案”的纪录汇总而成。人工review raw data，给每一个问题，一个可以接受的答案。目前，语料库只包含2907个问答。
+
+其他语料
+chat corpus collection from various open sources
+包括：开放字幕、英文电影字幕、中文歌词、英文推文
+
+保险行业QA语料
+通过翻译 insuranceQA产生的数据集。train_data含有问题12,889条，数据 141779条，正例：负例 = 1:10； test_data含有问题2,000条，数据 22000条，正例：负例 = 1:10；valid_data含有问题2,000条，数据 22000条，正例：负例 = 1:10
+
+ 
+————————————————
+版权声明：本文为CSDN博主「二哥不像程序员」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/qq_35164554/article/details/108484764
